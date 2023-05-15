@@ -12,3 +12,4 @@ public class User {
         followed = false;
     }
 }
+
